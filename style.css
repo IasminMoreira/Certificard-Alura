@@ -1,0 +1,48 @@
+body {
+  background-color: #e20651;
+  font-family: 'Yatra One', cursive;
+}
+
+section {
+-webkit-box-shadow: 29px 29px 5px 4px rgba(0,0,0,0.34); 
+box-shadow: 29px 29px 5px 4px rgba(0,0,0,0.34);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color:  white;
+  padding: 15px;
+  max-width: 500px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 20px;
+}
+
+header {
+  background-image: url("https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif");
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+div {
+  /*propriedade e valor- muda a cor de fundo*/
+  background-color: rgba(223, 249, 251,1.0);
+  border: 1px solid black;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  display: block;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
