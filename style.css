@@ -38,6 +38,10 @@ div {
   border-radius: 5px;
 }
 
+.redesSociais div{
+  border: 10px
+}
+
 img {
   margin-left: auto;
   margin-right: auto;
@@ -56,3 +60,11 @@ a:link {
   a:visited {
     color: #141414;
   }
+
+.redesSociais img{
+  width:25px;
+  height: 25px;
+  filter: invert(0);
+  display: inline-block;
+  transform: translateY(0px);
+}
