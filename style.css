@@ -1,5 +1,7 @@
 body {
+  background-image:url("https://images.vexels.com/media/users/3/224162/isolated/preview/8ba65a6a67f8b69d7c2ffb8bb14d018b-gato-olhando-para-o-logotipo-da-lua-by-vexels.png");
   background-color: #e20651;
+  background-repeat: no-repeat;
   font-family: 'Yatra One', cursive;
 }
 
@@ -46,3 +48,11 @@ img {
   transform: translateY(-50%);
   border: 8px solid white;
 }
+
+a:link { 
+    color: #141414;
+  }
+ 
+  a:visited {
+    color: #141414;
+  }
