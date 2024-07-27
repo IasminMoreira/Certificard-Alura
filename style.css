@@ -1,18 +1,18 @@
 body {
-  background-image:url("https://images.vexels.com/media/users/3/224162/isolated/preview/8ba65a6a67f8b69d7c2ffb8bb14d018b-gato-olhando-para-o-logotipo-da-lua-by-vexels.png");
+  background-image: url("https://images.vexels.com/media/users/3/224162/isolated/preview/8ba65a6a67f8b69d7c2ffb8bb14d018b-gato-olhando-para-o-logotipo-da-lua-by-vexels.png");
   background-color: #e20651;
   background-repeat: no-repeat;
-  font-family: 'Yatra One', cursive;
+  font-family: "Yatra One", cursive;
 }
 
 section {
--webkit-box-shadow: 29px 29px 5px 4px rgba(0,0,0,0.34); 
-box-shadow: 29px 29px 5px 4px rgba(0,0,0,0.34);
+  -webkit-box-shadow: 29px 29px 5px 4px rgba(0, 0, 0, 0.34);
+  box-shadow: 29px 29px 5px 4px rgba(0, 0, 0, 0.34);
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  background-color:  white;
+  background-color: white;
   padding: 15px;
   max-width: 500px;
   border: 2px solid black;
@@ -32,14 +32,14 @@ header {
 
 div {
   /*propriedade e valor- muda a cor de fundo*/
-  background-color: rgba(223, 249, 251,1.0);
+  background-color: rgba(223, 249, 251, 1);
   border: 1px solid black;
   padding: 15px;
   border-radius: 5px;
 }
 
-.redesSociais div{
-  border: 10px
+.redesSociais div {
+  border: 10px;
 }
 
 img {
@@ -53,16 +53,16 @@ img {
   border: 8px solid white;
 }
 
-a:link { 
-    color: #141414;
-  }
- 
-  a:visited {
-    color: #141414;
-  }
+a:link {
+  color: #141414;
+}
 
-.redesSociais img{
-  width:25px;
+a:visited {
+  color: #141414;
+}
+
+.redesSociais img {
+  width: 25px;
   height: 25px;
   filter: invert(0);
   display: inline-block;
